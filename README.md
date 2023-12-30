@@ -1,7 +1,7 @@
 # Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
-## Name: Manoj M
+## Name: ARAVIND R
 
-## Register Number: 23004560
+## Register Number: 23005370
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
